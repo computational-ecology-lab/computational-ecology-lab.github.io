@@ -1,6 +1,6 @@
 ---
 name: Miguel Lurgi
-startdate: [2019-04-02]
+startdate: [2019-02-04]
 enddate: []
 image: /static/img/members/profile-pic-miguel.png
 # altimage: /static/img/members/profile-pic-miguel.png
