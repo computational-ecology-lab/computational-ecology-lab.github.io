@@ -2,7 +2,7 @@
 name: Miguel Lurgi
 startdate: [04-02-2019]
 enddate: []
-image: /static/img/members/profile-pic-miguel.png
+# image: /static/img/members/profile-pic-miguel.png
 # altimage: /static/img/members/profile-pic-miguel.png
 position: Principal Investigator
 #current:
