@@ -9,7 +9,7 @@ position: Principal Investigator
 pronouns: he/him/his
 email: miguel.lurgi (at) swansea.ac.uk
 scholar: ii_yKY8AAAAJ
-website: 
+website: https://www.swansea.ac.uk/staff/miguel.lurgi/
 twitter: 
 linkedin: 
 github: computational-ecology-lab
