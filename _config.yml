@@ -1,7 +1,7 @@
-name: "Fraser Lab"
-description: "This is the official web page for the James Fraser Lab at UCSF."
+name: "Computational Ecology Lab"
+description: "This is the official web page for the Computational Ecology Lab at Swansea University."
 
-url: "http://fraserlab.com"
+url: "http://computational-ecology-lab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
@@ -26,22 +26,22 @@ exclude:
 
 collections:
         affiliates:
-                output: true
+                output: false
         members:
                 output: true
         publications:
                 output: true
         reviews:
-                output: true
+                output: false
         alumni:
-                output: true
+                output: false
         sep:
-                output: true
+                output: false
         visitors:
-                output: true
+                output: false
         undergrads:
-                output: true
+                output: false
         pets:
-                output: true
+                output: false
         tags:
-                output: true
+                output: false
