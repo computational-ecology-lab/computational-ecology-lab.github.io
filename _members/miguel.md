@@ -31,5 +31,5 @@ Right after finishing his PhD, Miguel took a postdoctoral position at the **Scho
 
 In 2019, Miguel joined the **Department of Biosciences** at **Swansea University**, where he founded the **Computational Ecology Lab**. The research focus of the lab remains the fundamental understanding of the ecological and evolutionary mechanisms behind the assembly and disassembly of complex ecosystems. Miguel tackles these challenges using a combination of empirical analyses of large and complex datasets on both microbial and macrobial commuinities, and theoretical models incorporating dynamics in complex networks and the processes that are believed to be behind their emergence.
 
-"
+Outside of lab, Miguel enjoys long birdwatching and mountain biking."
 ---
