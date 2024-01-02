@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# computational-ecology-lab.github.io
 ====================
 
 Technologies this website uses:  
