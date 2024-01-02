@@ -1,5 +1,5 @@
 ---
-name: Miguel Lurgi
+name: Miguel Lurgi, Ph.D.
 startdate: [2019-02-04]
 enddate: []
 image: /static/img/members/profile-pic-miguel.png
