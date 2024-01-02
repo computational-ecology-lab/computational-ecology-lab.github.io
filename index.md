@@ -1,19 +1,16 @@
 ---
-title: Fraser Lab
+title: Computational Ecology Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Computational Ecology Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [Department of Biosciences](https://www.swansea.ac.uk/bioscience/), at Swansea University.
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+![Computational Ecology Lab logo](static/img/logo/lab-logo.png){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
-{: .welcomefont}
-
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+Research in the lab is focused on discovering the mechanisms behind the emergence of structure and organisation of complex ecological networks from microbial communities to macro-ecosystems, with the ultimate goal of understanding the assembly and disassembly of ecosystems. We are interested in developing theoretical models to understand and predict the behaviour of complex ecosystems from first principles and how they will respond to change. We also aim at revealing patterns of organisation of complex communities from large datasets of empirical systems.
 {: .welcomefont}
