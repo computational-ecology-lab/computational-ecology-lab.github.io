@@ -37,13 +37,12 @@ Right after finishing his PhD (2014), Miguel took a postdoctoral position at the
 During his time in Australia, he investigated the effects of invasive species management on ecosystems through a complex networks modelling approach.
 In 2016, after his Australian experience, Miguel returned to Europe to join his former advisor and good friend Dr José Montoya as a postdoctoral researcher at the **Centre for Biodiversity Theory and Modelling** of the **Theoretical and Experimental Ecology Station** of the **CNRS** in Moulis, France. 
 At the CNRS Miguel developed a comprehensive research programme into the assembly and disassembly of complex ecosystems across spatial scales and ecosystems. 
-His research on the structure of the microbiome associated to multicellular hosts, alongside the continent-wide spatial scaling and variability of terrestrial vertebrate and marine invertebrate complex ecological systems, allowed him to uncover key ecological and evolutionary processes behind the emergence of these communities.
-These empirical studies were complemented with theoretical models to gain a better understanding of the effect of different aspects of global change on complex networks of species interactions.
 
 
 In 2019, Miguel joined the **Department of Biosciences** at **Swansea University**, where he founded the **Computational Ecology Lab**. 
 The research focus of the lab remains the fundamental understanding of the ecological and evolutionary mechanisms behind the assembly and disassembly of complex ecosystems. 
 Miguel tackles these challenges using a combination of empirical analyses of large and complex datasets on both microbial and macrobial commuinities, and theoretical models incorporating dynamics in complex networks and the processes that are believed to be behind their emergence.
+
 
 Outside of lab, Miguel enjoys birdwatching and mountain biking."
 ---
