@@ -1,5 +1,6 @@
 ---
 name: Abigail Turnlund
+timeline_name: Abby
 startdate: [2020-10-01]
 enddate: 
 image: /static/img/members/turnlund.jpg #365 x 365 pixels, 72 dpi
