@@ -1,5 +1,6 @@
-# Style guide for Fraser Lab Publications.
-- Written by Robbie Diaz - last updated 01/05/23 (procrastinating thesis writing)
+# Style guide for Computational Ecology Lab Publications.
+- Written by Robbie Diaz (Fraser Lab at UCSF) - last updated 01/05/23 (procrastinating thesis writing)
+- Adapted by Miguel Lurgi (for the Computational Ecology Lab at Swansea) 03/01/2024
 
 # Style Guide: Publications
 ## All sections
@@ -26,14 +27,14 @@
 # Example below
 ---
 title: "Title of article"
-authors: "**Surname FM**, Surname FM, **Fraser JS**"
+authors: "**Surname FM**, Surname FM, **Lurgi M**"
 journal: #"Journal Name" #Leave blank until accepted at journal
 pub_date: #"YYYY-MM-DD" #Change from Biorxiv submission date to date accepted at journal
 image: "/static/img/pub/YYYY_SurnameFirstAuthor.png" Minimum dimensions TBD
 pmid: #"########"
 pmcid: #"PMC#######"
 biorxiv_version: "YYYY.MM.DD.######v1"
-pdf: #"http://cdn.fraserlab.com/publications/YYYY_SurnameFirstAuthor.pdf" #Upload PDF of journal article to ensure open access
+pdf: #Paste link to pdf here
 pdbs:
   - #"PDB_ID" #PDB IDs must be in all caps
 paired_maps_and_models:
@@ -49,13 +50,13 @@ zenodo:
   - code: #"3555658"
     description: #"qPTxM code at time of journal submission"
 github:
-  - url: #"fraser-lab/qptm"
+  - url: #"computational-ecology-lab/code_repository_for_this_paper"
     description: #"qPTxM v3.0"
 links:
-  - name: "Fujimori lab @ UC San Francisco"
-    url: "https://fujimorilab.ucsf.edu"
-  - name: "Gonen lab @ UC Los Angeles"
-    url: "https://cryoem.ucla.edu/"
-  - name: "Celebratory Tweetstorm from First Surname"
-    url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
+  - name: "Dynamic of Complex Living Systems Lab @ CASUS, Germany"
+    url: "https://www.casus.science/team-members/ricardo-martinez-garcia/"
+  - name: "Theoretical and Experimental Ecology Station @ CNRS, France"
+    url: "https://sete-moulis-cnrs.fr/en/"
+  - name: "Centre for Marine Science and Innovation @ UNSW, Australia"
+    url: "https://www.unsw.edu.au/research/cmsi"
 ---
