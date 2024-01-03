@@ -9,10 +9,9 @@ group: research
 # Our research
 The main focus of our research is to understand patterns of biodiversity distribution across space and time from a mechanistic perspective. We investigate both ecological and evolutionary mechanisms across scales from low-level behavioural processes, to high-level biomass transfer and structure in complex networks of ecological interactions. We use a mixed theoretical - empirical approach grounded on the development of mechanistic theoretical models and the analysis of very large datasets. Further, we are interested in the applicability of these models to develop predictions on the effects of different aspects of global change on complex ecosystems.
 
-#### We work on many different systems, from microbial communities associated to multicellular hosts, to the continent-wide terrestrial vertebrate and marine communities.
-<br>
-<br>
+## We work on many different systems, from microbial communities associated to multicellular hosts, to the continent-wide terrestrial vertebrate and marine communities. We develop robust computational methods to the study and understand of complex ecological systems. Our computational models are informed and inspired by ecological and evolutionary processes occurring at various levels of biological organisation from individuals to ecosystems.
 
+<br>
 </div>
 
 <div class="row">
