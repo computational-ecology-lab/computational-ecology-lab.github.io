@@ -7,7 +7,7 @@ image: /static/img/members/profile-pic-miguel.png
 # altimage: /static/img/members/profile-pic-miguel.png
 position: Principal Investigator
 #current:
-pronouns: he/him/his
+pronouns: 
 email: miguel.lurgi (at) swansea.ac.uk
 scholar: ii_yKY8AAAAJ
 website: https://www.swansea.ac.uk/staff/miguel.lurgi/
