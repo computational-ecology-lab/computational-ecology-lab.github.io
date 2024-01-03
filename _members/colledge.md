@@ -6,7 +6,7 @@ image:
 altimage: 
 position: Graduate Student, MRes
 subsequent: 
-pronouns: 
+pronouns: Gene regulation in fatty acid pathways in cyanobacteria
 email: 
 scholar:
 website:
