@@ -1,6 +1,6 @@
 ---
 name: Gui Araújo, Ph.D.
-startdate: [2023-12-01]
+startdate: [2023-01-12]
 enddate: []
 image: /static/img/members/gui.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/gui.jpg #365 x 365 pixels, 72 dpi
