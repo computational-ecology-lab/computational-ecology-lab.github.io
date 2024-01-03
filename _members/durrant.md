@@ -5,8 +5,8 @@ enddate: [2021-07-28]
 image: 
 altimage: 
 position: Graduate Student, MRes
-subsequent: [PhD student](https://www.gla.ac.uk/pgrs/rowandurrant/) at the University of Glasgow
-pronouns: Disruption of metapopulation structure reduces Tasmanian devil facial tumour disease spread at the expense of abundance and genetic diversity
+subsequent: [PhD student](https://www.gla.ac.uk/pgrs/rowandurrant/), University of Glasgow
+pronouns: Effects of metapopulation structure on Tasmanian devil facial tumour disease spread
 email: 
 scholar:
 website:
