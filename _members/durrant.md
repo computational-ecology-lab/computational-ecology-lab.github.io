@@ -4,7 +4,7 @@ startdate: [2019-12-15]
 enddate: [2021-07-28]
 image: 
 altimage: 
-position: Graduate Student, MRes
+position: MRes Student
 subsequent: PhD student, [Hampson Lab](http://www.katiehampson.com/) @ University of Glasgow
 pronouns: Effects of metapopulation structure on Tasmanian devil facial tumour disease spread
 email: 
