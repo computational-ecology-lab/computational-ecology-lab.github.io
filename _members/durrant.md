@@ -9,7 +9,7 @@ subsequent: PhD student, University of Glasgow
 pronouns: Effects of metapopulation structure on Tasmanian devil facial tumour disease spread
 email: 
 scholar:
-website:
+website: https://www.gla.ac.uk/pgrs/rowandurrant/
 UCSF:
 twitter: 
 linkedin: 
