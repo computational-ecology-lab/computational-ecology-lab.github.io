@@ -6,7 +6,7 @@ image:
 altimage: 
 position: Graduate Student, MRes
 subsequent: [PhD student](https://www.gla.ac.uk/pgrs/rowandurrant/), University of Glasgow
-pronouns: Effects of metapopulation structure on Tasmanian devil facial tumour disease spread
+pronouns: 
 email: 
 scholar:
 website:
@@ -16,6 +16,6 @@ linkedin:
 github: 
 orcid: 
 description: "
-
+Effects of metapopulation structure on Tasmanian devil facial tumour disease spread
 "
 ---
