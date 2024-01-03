@@ -28,7 +28,6 @@ description: "
 #OPTIONAL
 pronouns: #example: they/them/theirs, he/him/his, she/her/hers, etc
 website: #https://website.com/ #Enter your personal/professional website
-UCSF: #XXXXXXXX #UCSF Employees Profile ID only
 twitter: #username
 linkedin: #username
 github: #username
