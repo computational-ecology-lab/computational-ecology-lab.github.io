@@ -1,5 +1,6 @@
 ---
 name: Dr Miguel Lurgi
+timeline_name: Miguel
 startdate: [2019-02-04]
 enddate: []
 image: /static/img/members/profile-pic-miguel.png
