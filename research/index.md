@@ -55,7 +55,7 @@ We are interested in developing an understanding of the effects of global change
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2023_Thompson.jpeg" alt="antibiotic">
+<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="antibiotic">
 </div>
 </div>
 <div class="row">
@@ -83,7 +83,7 @@ A major limitation of current metapopulation models used to predict population p
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2024_Durrant.gif" alt="tjump">
+<img class="img-fluid" src="/static/img/pub/2021_Durrant.gif" alt="tjump">
 </div>
 
 </div>
