@@ -55,7 +55,7 @@ We are interested in developing an understanding of the effects of global change
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift" width="1000">
+<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift" height="400">
 </div>
 </div>
 <div class="row">
