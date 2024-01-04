@@ -3,7 +3,7 @@ title: "Joint effects of species traits and environmental preferences on range e
 authors: "**Thompson L**, Wells K, Galiana N & **Lurgi M**"
 journal: "Global Ecology and Biogeography"
 pub_date: "2023-09-05"
-image: "/static/img/pub/2023_Thompson.jpeg"
+image: "/static/img/pub/2023_Thompson.png"
 pmid: 
 pmcid: #"PMC#######"
 biorxiv_version: 
