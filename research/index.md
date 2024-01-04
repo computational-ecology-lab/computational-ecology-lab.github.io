@@ -40,7 +40,7 @@ We investigate the diversity and compositional patterns of complex microbial ass
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2019_Lurgi.jpg" alt="sponge-phylogeny">
+<img class="img-fluid" src="/static/img/pub/2019_Lurgi.png" alt="sponge-phylogeny">
 </div>
 </div>
 <div class="row">
@@ -53,7 +53,7 @@ We are interested in developing an understanding of the effects of global change
 
 </div>
 
-<div class="col-md-3 order-md-2 align-self-center">
+<div class="col-md-5 order-md-2 align-self-center">
 
 <img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift" height="400" width="400">
 </div>
