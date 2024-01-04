@@ -55,7 +55,7 @@ We are interested in developing an understanding of the effects of global change
 
 <div class="col-md-5 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift" height="400" width="400">
+<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift">
 </div>
 </div>
 <div class="row">
@@ -69,7 +69,7 @@ The connection between ecology and evolution is a longstanding tenet of biologic
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2023_Lurgi_Pascual-Garcia.png" alt="eco-evo">
+<img class="img-fluid" src="/static/img/pub/2024_Lurgi_b.png" alt="eco-evo">
 </div>
 </div>
 <div class="row">
