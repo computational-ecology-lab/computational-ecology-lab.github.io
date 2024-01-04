@@ -4,7 +4,7 @@ layout: default
 group: courses
 ---
 
-# Computational Ecology Lab Lab Courses
+# Computational Ecology Lab Courses
 
 Teachinhg Ecological Theory is one of my favourite activities. Especially focusing on networks of ecological interactions.
 
