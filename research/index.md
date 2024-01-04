@@ -83,7 +83,7 @@ A major limitation of current metapopulation models used to predict population p
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2023_lurgi_menezes_martinez.jpg" alt="tjump">
+<img class="img-fluid" src="/static/img/pub/2024_Durrant.gif" alt="tjump">
 </div>
 
 </div>
