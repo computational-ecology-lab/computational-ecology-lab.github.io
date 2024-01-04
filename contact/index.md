@@ -15,7 +15,7 @@ group: contact
   [Department of Biosciences](https://www.swansea.ac.uk/bioscience/) <br>
   Swansea University <br>
   Margam Building, Room 102C <br>
-  Singleton Campust, Singleton Park <br>
+  Singleton Campus, Singleton Park <br>
   Swansea, SA2 8PP, UK. <br>
   email: miguel.lurgi (at) swansea.ac.uk <br>
 
