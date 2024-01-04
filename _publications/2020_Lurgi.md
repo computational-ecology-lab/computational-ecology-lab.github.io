@@ -12,5 +12,6 @@ pdbs:
 github:
   - url: "mlurgi/chilean-multiplex-networks"
 links:
-  - url: "https://miguellurgi.shinyapps.io/chile-intertidal-shinyapp/"
+  - name: "Explore the networks of the Chilean intertidal interactively"
+    url: "https://miguellurgi.shinyapps.io/chile-intertidal-shinyapp/"
 ---
