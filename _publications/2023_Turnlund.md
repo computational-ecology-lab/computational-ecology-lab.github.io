@@ -2,7 +2,7 @@
 title: "Linking differences in microbial network structure with changes in coral larval settlement"
 authors: "Turnlund AC, Vanwonterghem I, Botté ES, Randall CJ, Giuliano C, Kam L, Bell S, O'Brien P, Negri AP, Webster NS & **Lurgi M**"
 journal: "ISME Communications"
-pub_date: "2018-04-16"
+pub_date: "2023-10-21"
 image: "/static/img/pub/2023_Turnlund.png"
 pmid: 
 pmcid: "PMC10590418"
