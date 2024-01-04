@@ -3,8 +3,8 @@ name: Abigail Turnlund
 timeline_name: Abby
 startdate: [2020-01-01]
 enddate: 
-image: /static/img/members/Turnlund.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Turnlund.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Turnlund.jpeg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/Turnlund.jpeg #365 x 365 pixels, 72 dpi
 position: PhD Student
 #subsequent: 
 pronouns: 
@@ -17,7 +17,9 @@ github:
 orcid: 0000-0002-7912-8060
 description: "I received my Bachelor’s in Biology with an emphasis in Marine Biology at San Diego State University (USA) in 2019. I completed my Honor’s project, characterizing the skin microbiome taxonomy and functional composition of whale sharks (Rhincodon typus), under Dr. Elizabeth Dinsdale’s supervision during my final year.  
 
+
 My current project focuses on identifying microbial taxa from marine and Crustose Coralline Algae biofilms that induce or inhibit coral larval settlement. This work aims to aid reef restoration coral larval sexual propagation efforts by improving coral larval settlement in aquaculture for a variety of Great Barrier Reef coral species. 
+
 
 Outside the lab I enjoy free-diving and videoing marine life with my gopro (preferably, sharks), but my dream is to one day dive with a Mola Mola and in the Monterey Bay Aquarium kelp tank. When I’m not in the water, I try to travel and read as much as I can. "
 ---
