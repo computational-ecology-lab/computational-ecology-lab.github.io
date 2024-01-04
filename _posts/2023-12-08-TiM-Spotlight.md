@@ -11,4 +11,4 @@ Great news! Abby's paper on the effects of microbial community structure on cora
 
 The original paper: **Linking differences in microbial network structure with changes in coral larval settlement** can be downloaded [here](https://www.nature.com/articles/s43705-023-00320-x.pdf)!
 
- <img src="/static/img/pub/2023_Turnlund.png" alt="microbial network" class="img-fluid" width="200">
+ <img src="/static/img/pub/2023_Turnlund.png" alt="microbial network" class="img-fluid" width="500">
