@@ -24,7 +24,7 @@ We study the processes that give rise to ecological complexity across spatial sc
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2024_Lurgi.png" alt="qFit">
+<img class="img-fluid" src="/static/img/pub/2024_Lurgi.png" alt="network">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/mini-logo.png" alt="Lab logo"></a> -->
 
 </div>
@@ -40,7 +40,7 @@ We investigate the diversity and compositional patterns of complex microbial ass
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2019_Lurgi.jpg" alt="ptp1b">
+<img class="img-fluid" src="/static/img/pub/2019_Lurgi.jpg" alt="sponge-phylogeny">
 </div>
 </div>
 <div class="row">
@@ -55,7 +55,7 @@ We are interested in developing an understanding of the effects of global change
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="antibiotic">
+<img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift"; width="1000">
 </div>
 </div>
 <div class="row">
@@ -69,7 +69,7 @@ The connection between ecology and evolution is a longstanding tenet of biologic
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2023_Lurgi_Pascual-Garcia.png" alt="hairball">
+<img class="img-fluid" src="/static/img/pub/2023_Lurgi_Pascual-Garcia.png" alt="eco-evo">
 </div>
 </div>
 <div class="row">
@@ -83,7 +83,7 @@ A major limitation of current metapopulation models used to predict population p
 </div>
 
 <div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2021_Durrant.gif" alt="tjump">
+<img class="img-fluid" src="/static/img/pub/2021_Durrant.gif" alt="dftd">
 </div>
 
 </div>
