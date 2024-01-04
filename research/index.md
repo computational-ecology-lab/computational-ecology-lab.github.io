@@ -58,6 +58,23 @@ We are interested in developing an understanding of the effects of global change
 <img class="img-fluid" src="/static/img/pub/2023_Thompson.png" alt="bird-range-shift">
 </div>
 </div>
+
+<div class="row">
+
+### Understanding the effects of local-scale behaviours for metapopulation persistence
+
+<div class="col-md-7 order-md-2">
+
+A major limitation of current metapopulation models used to predict population persistence and stability at large spatial scales, is the strong (yet mostly untested) assumption that dispersal is a random density-dependent processes. In this research theme, we aim at understanding the consequences of low-level processes of animal behaviour on high-level patterns of species distributions. Low-level effects percolate all the way up to regional populations to determine biodiversity patterns.
+
+</div>
+
+<div class="col-md-5 order-md-1 align-self-center ">
+<img class="img-fluid" src="/static/img/pub/2021_Durrant.gif" alt="dftd">
+</div>
+
+</div>
+
 <div class="row">
 
 ### Eco-evolutionary dynamics of complex networks
@@ -73,18 +90,4 @@ The connection between ecology and evolution is a longstanding tenet of biologic
 </div>
 
 </div>
-<div class="row">
 
-### Understanding the effects of local-scale behaviours for metapopulation persistence
-
-<div class="col-md-7 order-md-1">
-
-A major limitation of current metapopulation models used to predict population persistence and stability at large spatial scales, is the strong (yet mostly untested) assumption that dispersal is a random density-dependent processes. In this research theme, we aim at understanding the consequences of low-level processes of animal behaviour on high-level patterns of species distributions. Low-level effects percolate all the way up to regional populations to determine biodiversity patterns.
-
-</div>
-
-<div class="col-md-5 order-md-2 align-self-center ">
-<img class="img-fluid" src="/static/img/pub/2021_Durrant.gif" alt="dftd">
-</div>
-
-</div>
