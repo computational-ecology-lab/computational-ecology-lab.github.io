@@ -62,13 +62,13 @@ We are interested in developing an understanding of the effects of global change
 
 ### Eco-evolutionary dynamics of complex networks
 
-<div class="col-md-7 order-md-2">
+<div class="col-md-7 order-md-1">
 
 The connection between ecology and evolution is a longstanding tenet of biological research. However, we still lack a definite understanding of how these two families of processes interact to facilitate the emergence of ecosystems we observe around us. In this research theme, we try to develop a better theoretical understanding of the consequences of evolutionary adaptive change on the overall structure and stability of complex ecological networks.
 
 </div>
 
-<div class="col-md-3 order-md-1 align-self-center">
+<div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2024_Lurgi_b.png" alt="eco-evo">
 </div>
 
