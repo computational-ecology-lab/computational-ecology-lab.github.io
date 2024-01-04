@@ -20,11 +20,11 @@ The main focus of our research is to understand patterns of biodiversity distrib
 
 <div class="col-md-7 order-md-1">
 
-We study the processes that give rise to ecological complexity across spatial scales.
+We study the processes that give rise to ecological complexity across spatial scales using mathematical and computational approaches.
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
+<img class="img-fluid" src="/static/img/pub/2024_Lurgi.png" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/mini-logo.png" alt="Lab logo"></a> -->
 
 </div>
