@@ -69,7 +69,11 @@ The connection between ecology and evolution is a longstanding tenet of biologic
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2019_Lurgi.png" alt="sponge-phylogeny">
+  <br>
+  <br>
+  <br>
+  <br>
+<img class="img-fluid" src="/static/img/pub/2024_Lurgi_b.png" alt="eco-evo">
 </div>
 
 </div>
