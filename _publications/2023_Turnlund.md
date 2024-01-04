@@ -11,6 +11,8 @@ pdf: "https://www.nature.com/articles/s43705-023-00320-x.pdf"
 pdbs:
 github:
 links:
+  - name: "Highlighted as a Spotlight in Trends in Microbiology"
+    url: "https://doi.org/10.1016/j.tim.2023.11.017"
   - name: "Data @ NCBI Sequence Read Archive (SRA)"
     url: "https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA978954"
 ---
