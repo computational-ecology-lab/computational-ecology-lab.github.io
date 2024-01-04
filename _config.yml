@@ -43,3 +43,5 @@ collections:
                 output: true
         tags:
                 output: true
+        posts:
+                output: true
