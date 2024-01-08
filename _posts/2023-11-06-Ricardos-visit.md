@@ -6,18 +6,17 @@ layout: post
 group: news
 tags: 
 ---
-This week, my good friend and colleague, Dr Ricardo Martínez-García, from the Centre for Advanced Systems Understanding in Germany, visits the lab!
+This week, my good friend and colleague, [Dr Ricardo Martínez-García](https://www.casus.science/team-members/ricardo-martinez-garcia/), from the Centre for Advanced Systems Understanding in Germany, visits the lab!
 
 He will be working with me on the theoretical modelling of territoriality-driven dispersal and will be around for interesting discussions!
 
-About Ricardo:
+**About Ricardo:**
 
 Ricardo got his PhD in Physics from the Institute for Cross Disciplinary Physics and Complex Systems (IFISC, Spain) in 2014. 
 After that completed a postdoctoral training at the Department of Ecology and Evolutionary Biology at Princeton University (USA) until 2019. 
 Between 2019 and 2022 he was an Assistant Professor at the South American Institute for Fundamental Research and the Institute for Theoretical Physics of the State University of São Paulo (Brazil). 
 Since December 2022 he is a Young Investigator Group Leader at the Center for Advanced Systems Understanding (CASUS; Görlitz, Germany) 
 where he leads the Dynamics of Complex Living Systems research group.
-
 
 His research seeks to understand and quantify how individuals behave in response to various interactions between them and with the environment, and how these behaviors drive community and ecosystem-level processes. 
 Among those, he is particularly interested in emergent spatiotemporal patterns and their ecological and evolutionary implications. 
@@ -27,10 +26,10 @@ interactions and use them to investigate (eco)-system level processes that occur
 When possible, we test model predictions with experimental and field data. 
 This approach ultimately allows us to use emergent population-level patterns as a bridge between individual behaviors and ecological and evolutionary scales.
 
-He will present a couple of seminar at the Biosciences and the Maths Departments to share his research with us!
+He will present **a couple of seminar at the Biosciences and the Maths Departments** to share his research with us!
 
 Bioscience: **To leave or not to leave: a mechanistic model for the decision-making process behind ungulate partial migration**
-<img src="/static/img/pub/2023_Martinez-Garcia.png" alt="ungulates" class="img-fluid" width="500">
+<p style="text-align:center;"> <img src="/static/img/pub/2023_Martinez-Garcia.png" alt="ungulates" class="img-fluid"> </p>
 
 **ABSTRACT**
 Despite the importance of ungulate migrations, we lack a complete understanding of why some ungulates species migrate and some do not. 
@@ -44,8 +43,9 @@ Within this modeling framework, residents arise for most parameter combinations 
 Therefore, this new model explains the ubiquity of residents in migratory ungulate populations and presents novel patterns to be tested with further data collection.
 
 Maths: **Population dynamics models with non-local spatial interactions: from spatial patterns to species coexistence**
-<img src="/static/img/pub/2023_Martinez-Garcia-b.png" alt="ungulates" class="img-fluid" width="500">
-**ABSTRACT**
+<p style="text-align:center;"><img src="/static/img/pub/2023_Martinez-Garcia-b.png" alt="microbial-models" class="img-fluid"> </p>
+
+ **ABSTRACT**
 From microbial colonies to entire landscapes, biological systems often self-organize into regular spatial patterns, which might have significant ecological consequences. 
 Several models have been proposed to explain the emergence of these patterns. 
 Most of them rely on a Turing-like activation-inhibition scale-dependent feedback whereby interactions favoring growth dominate at short distances and inhibitory, competitive interactions dominate in the long-range. 
