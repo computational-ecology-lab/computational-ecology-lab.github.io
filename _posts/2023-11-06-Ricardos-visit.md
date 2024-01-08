@@ -32,6 +32,7 @@ Bioscience: **To leave or not to leave: a mechanistic model for the decision-mak
 <p style="text-align:center;"> <img src="/static/img/pub/2023_Martinez-Garcia.png" alt="ungulates" class="img-fluid"> </p>
 
 **ABSTRACT**
+
 Despite the importance of ungulate migrations, we lack a complete understanding of why some ungulates species migrate and some do not. 
 Moreover, at the population level, some migrate and others remain behind as residents, a phenomenon known as partial migration. 
 Even though progress has been made towards understanding long-term fitness benefits of partial migration, the underlying decision-making process 
@@ -46,6 +47,7 @@ Maths: **Population dynamics models with non-local spatial interactions: from sp
 <p style="text-align:center;"><img src="/static/img/pub/2023_Martinez-Garcia-b.png" alt="microbial-models" class="img-fluid"> </p>
 
  **ABSTRACT**
+ 
 From microbial colonies to entire landscapes, biological systems often self-organize into regular spatial patterns, which might have significant ecological consequences. 
 Several models have been proposed to explain the emergence of these patterns. 
 Most of them rely on a Turing-like activation-inhibition scale-dependent feedback whereby interactions favoring growth dominate at short distances and inhibitory, competitive interactions dominate in the long-range. 
