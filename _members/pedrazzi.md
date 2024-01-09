@@ -14,7 +14,10 @@ twitter:
 linkedin:
 github:
 orcid: 
-description: "Lucia's PhD focuses on the development of autonomous drone technology for ecology and conservation
+description: "Lucia is a joint PhD student with the [SHOAL group](https://www.shoalgroup.org/) supervised by [Dr Andrew King](https://www.swansea.ac.uk/staff/a.j.king/).
+
+
+Lucia's PhD focuses on the development of autonomous drone technology for ecology and conservation
 
 Outside of the lab, Lucia enjoys climbing."
 ---
