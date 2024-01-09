@@ -15,7 +15,10 @@ twitter:
 linkedin:
 github:
 orcid:
-description: "I graduated in Ecology and Evolution at the university of Groningen and did my thesis at the University of Lausanne, investigating collective decision-making in ants using individual-based simulations.
+description: "Marco is a joint PhD student with the [SHOAL group](https://www.shoalgroup.org/) supervised by [Dr Andrew King](https://www.swansea.ac.uk/staff/a.j.king/).
+
+
+I graduated in Ecology and Evolution at the university of Groningen and did my thesis at the University of Lausanne, investigating collective decision-making in ants using individual-based simulations.
 
 
 In Swansea, I am investigating the collective behavior of different model species, to see how individual heterogeneity impacts group behaviour. I plan to implement some of the insights gained form studying biological systems in robotic swarms.
