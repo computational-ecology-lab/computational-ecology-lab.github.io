@@ -2,8 +2,8 @@
 name: Amelia Jones
 startdate: [2023-09-30]
 enddate: []
-image: /static/img/members/jones.jpg
-altimage: /static/img/members/jones.jpg
+image: /static/img/members/Jones.png
+altimage: /static/img/members/Jones.png
 position: MRes Student
 #subsequent:  update once you become an alumnus
 pronouns: 
