@@ -1,18 +1,19 @@
 ---
 name: Lucia Pedrazzi
+timeline_name:
 startdate: [2023-10-01]
 enddate: []
 image: /static/img/members/Pedrazzi.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Pedrazzi.jpg #365 x 365 pixels, 72 dpi
 position: PhD Student
 #subsequent:  update once you become an alumnus
-pronouns: #personal pronouns
+pronouns: 
 email: 2320751 (at) swansea.ac.uk
 scholar: fSriINMAAAAJ
-website:
-twitter:
-linkedin:
-github:
+website: 
+twitter: 
+linkedin: 
+github: 
 orcid: 0009-0007-2324-1359
 description: "Lucia is a joint PhD student with the [SHOAL group](https://www.shoalgroup.org/) supervised by [Dr Andrew King](https://www.swansea.ac.uk/staff/a.j.king/).
 
