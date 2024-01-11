@@ -20,7 +20,7 @@ description: "Lucia is a joint PhD student with the [SHOAL group](https://www.sh
 I completed both my BSc and my MSc at the University of Strasbourg and specialized in animal behaviour also through my master's thesis on the individual development of social rank in male Alpine ibex.
 
 
-In October 2023 I started my PhD, supervised by Andrew King and Miguel Lurgi Rivera, on "bioherding": using drones to herd animal flocks for conservation efforts, for example enhancing animal welfare or solving human-wildlife conflicts.
+In October 2023 I started my PhD, supervised by Andrew King and Miguel Lurgi, on "bioherding", using drones to herd animal flocks for conservation efforts, for example enhancing animal welfare or solving human-wildlife conflicts.
 
 
 I like to spend my free time exploring the outdoors. I go climbing and mountaineering as soon as I get the chance, or I just hike in the hills around home."
