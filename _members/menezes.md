@@ -5,7 +5,7 @@ startdate: [2023-07-21]
 enddate: []
 image: /static/img/members/Menezes.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Menezes.jpg #365 x 365 pixels, 72 dpi
-position: Affiliate, PhD Student at the [Dr Martínez-García's lab](https://www.casus.science/team-members/ricardo-martinez-garcia/)
+position: Affiliate, PhD Student at [Dr Martínez-García's lab](https://www.casus.science/team-members/ricardo-martinez-garcia/)
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: r.menezes (at) usp.br
