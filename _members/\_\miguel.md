@@ -28,15 +28,13 @@ At Sussex, under the supervision of Dr Inman Harvey, he investigated the role of
 In 2009, Miguel joined the **School of Informatics** of the **University of Edinburgh**, Scotland, UK, as a **Marie Skłodowska Curie Research Associate**. Under the supervision of Dr Dave Robertson, Miguel developed the foundations of an ecologically inspired multi-agent system borrowing ideas from ecology and evolution. These efforts granted him an **MRes in Artificial Intelligence** and seeded his interests in what would become his main research focus to date: networks of ecological interactions.
 
 
-The experiences and knowledge gained in Edinburgh prompted Miguel to embark in a radical career change: **from artificial intelligence to ecology**. 
-He was determined to continue his research career as an ecologist investigating natural ecosystems from the perspective of complex networks.
 In 2011, Miguel received a PhD scholarship from **Microsoft Research** to complete his PhD studies at the **Centre for Ecological Research and Forestry Applications** at the **Autonomous University of Barcelona** and the **Marine Sciences Institute** of the **Spanish Research Council (CSIC)** under the supervision of Dr José Montoya and Dr Bernat Claramunt-López.
 For his thesis **The Assembly and Disassembly of Ecological Networks in a Changing World**, Miguel obtained his PhD with **Cum Laude** honours in 2014.
 
 
 Right after finishing his PhD (2014), Miguel took a postdoctoral position at the **School of Biological Sciences** at the **University of Adelaide**, Australia. 
 During his time in Australia, he investigated the effects of invasive species management on ecosystems through a complex networks modelling approach.
-In 2016, after his Australian experience, Miguel returned to Europe to join his former advisor and good friend Dr José Montoya as a postdoctoral researcher at the **Centre for Biodiversity Theory and Modelling** of the **Theoretical and Experimental Ecology Station** of the **CNRS** in Moulis, France. 
+In 2016, his Australian experience came to an end, and Miguel returned to Europe to join his former advisor and good friend Dr José Montoya as a postdoctoral researcher at the **Centre for Biodiversity Theory and Modelling** of the **Theoretical and Experimental Ecology Station** of the **CNRS** in Moulis, France. 
 At the CNRS Miguel developed a comprehensive research programme into the assembly and disassembly of complex ecosystems across spatial scales and ecosystems. 
 
 
