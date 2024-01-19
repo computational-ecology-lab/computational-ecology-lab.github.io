@@ -18,7 +18,7 @@ description: "In my prior education, I gained a BSc (Hons) in Biosciences at Swa
 I also undertook a number of professional conservation reports including Preliminary Ecological Appraisal Reports, Phase 1 Habitat Surveys and a River Habitat Survey. 
 
 
-During my masters research project I undertook a modelling study to analyze the distribution of nine rare endemic hyperoceanic bryophytes in the UK. 
+During my masters research project, under the supervision of Dr Penny Neyland and Miguel, I undertook a modelling study to analyze the distribution of nine rare endemic hyperoceanic bryophytes in the UK. 
 The research consisted of modelling the current distribution of these species in the UK and the anticipated distributions under a future adverse climate change scenario.  
 
 
