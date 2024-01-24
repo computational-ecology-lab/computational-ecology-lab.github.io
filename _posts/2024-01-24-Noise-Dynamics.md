@@ -59,7 +59,9 @@ The replication of the results consists of two parts, one applied to the voter m
 
 To fit the data, we first have to find the autocorrelation function for figuring out the best time scale (see paper for details).
 
-$$ACF(\tau) = \frac{\langle (M(t) - \langle M(t) \rangle ) (M(t+\tau)- \langle M(t) \rangle) \rangle}{\langle (M(t) - \langle M(t) \rangle)^{2} \rangle }$$
+```math
+ACF(\tau) = \frac{\langle (M(t) - \langle M(t) \rangle ) (M(t+\tau)- \langle M(t) \rangle) \rangle}{\langle (M(t) - \langle M(t) \rangle)^{2} \rangle }
+```
 
 When I see an equation my first though is “how do I calculate that?”. In my opinion Tidyverse has some cool operations which can be used to translate the equation into a specific value. For example, the averages in the ACF are calculated over different things, which can be captured by grouping. 
 
