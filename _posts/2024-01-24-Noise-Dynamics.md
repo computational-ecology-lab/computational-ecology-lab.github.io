@@ -74,4 +74,4 @@ The last part is to find the deterministic and stochastic component, which produ
 
 Comparing the two models we see that the deterministic component “pushes” the population towards non-consensus in the voter model (equal number of individuals for both options), while there are two stable equilibria separated by and unstable equilibrium in the higher interaction model (equilibria are found when the “push” is equal to zero, and equilibria are stable when the “push” goes towards the equilibrium). For both models the noise is stronger when the population is undecided because there is more uncertainty in the reactions that can occur (the reactions have similar velocities), which is the definition of intrinsic noise. Hence, the voter model is pushed away from its non-consensus equilibrium condition, leading to noise induced consensus. Noise constructs order!
 
-Marco has kindly share his code with us here: 
+Marco has kindly share his code with us [here](https://github.com/computational-ecology-lab/miscellaneous-projects/blob/main/noise.r).
