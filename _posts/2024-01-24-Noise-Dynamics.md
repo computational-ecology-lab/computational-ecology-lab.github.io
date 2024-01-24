@@ -10,12 +10,15 @@ tags:
 In this tutorial, Marco explains how to implement the main routines to replicate the effects of the paper on ***Noise-induced effects in collective dynamics and inferring local interactions from data***
 
 
+<p style="text-align:center;"><img src="/static/img/news/2024_Noise_Induced.png" alt="poster header" class="img-fluid" width="700"></p>
+
+
 **Part 1 Gillespie algorithm**
 
 
 The code contains a function for exactly simulating runs from the master equation through the Gillespie algorithm. The Gillespie algorithm is divided in four main parts: 
 
-**1.-** Find the velocity (or propensity) for every reaction. This is done by multiplying the reaction rate (which is conditioned on the reagents encountering each other) with the rate that the reagents do encounter each other. The rate that two reagents encounter each other can be found through the mass action assumption. Usually this is done simply by multiplying the concentration of the reagents, but this is an approximation that holds only for big population sizes because reagents do not interact with themselves, and the concentration of the species with and without one molecule can be quite different in small population sizes and omega. Hence it is possible to use the stochastic law of mass action, equal for one reaction to k\Ω∏▒(x_i !)/((x_i-1)!Ω^(s_i ) ) (for details see David Schnoerr et al 2017 J. Phys. A: Math. Theor. 50 093001). Since there are some factorials, it is hard to compute in practice, and has been rearranged in the code implementation.
+**1.-** Find the velocity (or propensity) for every reaction. This is done by multiplying the reaction rate (which is conditioned on the reagents encountering each other) with the rate that the reagents do encounter each other. The rate that two reagents encounter each other can be found through the mass action assumption. Usually this is done simply by multiplying the concentration of the reagents, but this is an approximation that holds only for big population sizes because reagents do not interact with themselves, and the concentration of the species with and without one molecule can be quite different in small population sizes and omega. Hence it is possible to use the stochastic law of mass action, equal for one reaction to $ k \Omega \prod \frac{(x_i!)}{(x_i-1)! \Omega^(s_i)} $) (for details see [David Schnoerr et al (2017) ***J. Phys. A: Math. Theor.*** **50**, 093001](https://iopscience.iop.org/article/10.1088/1751-8121/aa54d9)). Since there are some factorials, it is hard to compute in practice, and has been rearranged in the code implementation.
 	
  
 **2.-** Find the waiting time before the next reaction occurs by sampling from an exponential distribution with mean rate equal to the sum of the reaction velocities. 
