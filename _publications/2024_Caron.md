@@ -6,11 +6,13 @@ pub_date: "2024-01-29"
 image: "/static/img/pub/2024_Caron.png"
 pmid: 
 pmcid: #"PMC#######"
-biorxiv_version: https://ecoevorxiv.org/repository/view/5442/
+biorxiv_version: 
 pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/geb.13807"
 pdbs:
 github:
 links: 
   - name: Collaboration with Dr Laura Pollock's lab"
     url: https://qbiodiversity.org/about/
+  - name: Eco Evo R Xiv
+    url: https://ecoevorxiv.org/repository/view/5442/
 ---
