@@ -1,6 +1,6 @@
 ---
 published: True
-title: Lucie represented the lab @ BES Annual Meeting
+title: Our Rock Pipit population study featured on the Gower Ornithological Society!
 author: Miguel Lurgi
 layout: post
 group: news
