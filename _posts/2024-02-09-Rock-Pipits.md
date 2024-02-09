@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-<img src="/static/img/pub/2024_Rock_Pipit.png" alt="poster header" class="img-fluid" width="700">
+<p style="text-align:center;"><img src="/static/img/news/2024_Rock_Pipit.png" alt="poster header" class="img-fluid" width="700"></p>
 
 Our work on the colour ringing project of Rock Pipits along the coast of Gower, and funded by the 
 [British Ecological Society](https://www.britishecologicalsociety.org/funding/research-grants/past-awards-research-grants/), 
