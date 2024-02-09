@@ -13,7 +13,7 @@ scholar:
 website:
 twitter:
 linkedin:
-github:
+github: MarcoFele98
 orcid:
 description: "Marco is a joint PhD student with the [SHOAL group](https://www.shoalgroup.org/) supervised by [Dr Andrew King](https://www.swansea.ac.uk/staff/a.j.king/).
 
