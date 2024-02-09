@@ -22,5 +22,8 @@ If you want to know more about this species, the Royal Society for the Protectio
 This project is supported by the [Gower Ringing Group](https://www.gowerbirds.org.uk/category/gower-ringing-group/) and the 
 [British Trust of Ornithology](https://www.bto.org/understanding-birds/birdfacts/rock-pipit) (BTO), to which this project contributes data.
 
+Lastly, if during your weekend walks around Gower you see any rock pipits wearing colour rings, please take note of them (or even better, a picture!)
+and let us know. Thank you for your support! This is a citizen science project.
+
 
 
