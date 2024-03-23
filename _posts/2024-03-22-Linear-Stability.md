@@ -21,50 +21,46 @@ Our main goal is to understand the elements of the linear stability analysis of 
 
 **1D Dynamical system**
 
-**1.-** Find the velocity (or propensity) for every reaction. This is done by multiplying the reaction rate (which is conditioned on the reagents encountering each other) with the rate that the reagents do encounter each other. The rate that two reagents encounter each other can be found through the mass action assumption. Usually this is done simply by multiplying the concentration of the reagents, but this is an approximation that holds only for big population sizes because reagents do not interact with themselves, and the concentration of the species with and without one molecule can be quite different in small population sizes and omega. Hence it is possible to use the stochastic law of mass action, equal for one reaction to $ k \Omega \prod \frac{x_i!}{(x_i-1)! \Omega^{s_i}} $ (for details see [David Schnoerr et al (2017) ***J. Phys. A: Math. Theor.*** **50**, 093001](https://iopscience.iop.org/article/10.1088/1751-8121/aa54d9)). Since there are some factorials, it is hard to compute in practice, and has been rearranged in the code implementation.
-	
- 
-**2.-** Find the waiting time before the next reaction occurs by sampling from an exponential distribution with mean rate equal to the sum of the reaction velocities. 
-	
- 
-**3.-** Find the reaction that happens by choosing from the possible reactions with a probability proportional to the reaction velocity.
+Our variable of interest is $x(t)$, which is a curve parameterised by the temporal variable $t$. The time-derivative of $x$, $\Dot{x}=\frac{dx}{dt}$, is another curve parameterised by $t$. In a dynamical system, we interpret $x$ and $\Dot{x}$ as two different functions of $t$ inhabiting the same space. The usual dynamical law to determine $x$ is to define an operation that transforms $x$ into $\Dot{x}$:
+
+$$f:x\to\Dot{x}$$
+
+such that
+
+$$\Dot{x}=f(x).$$
+
+Note that this equation doesn't explicitly involve $t$, which can be taken as an external parameterisation. We can then interpret $x$ and $\Dot{x}$ as 1D vectors with the operator $f$ as a geometrical shift from $x$ to $\Dot{x}$, independently of $t$.
+
+If we are interested in the behaviour around an equilibrium point $x_0$, we can linearise $\Dot{x}$ as a function of $x$ around that point. This is the same as the curved surface of Earth being 'linearised' around us in the very small region delimited by our line of sight. For this, we consider the Taylor series expansion of the operator around the equilibrium $x_0$:
+
+$$\Dot{x}=f(x)=f(x_0)+\frac{df}{dx}(x_0)[x-x_0]+\frac{1}{2}\frac{d^f}{dx^2}(x_0)[x-x_0]^2+...=\sum_n\frac{d^nf}{dx^n}(x_0)\frac{[x-x_0]^n}{n!}.$$
+
+All derivatives are evaluated at equilibrium, so they are numbers, constant coefficients. Therefore, this expansion is a mapping from $f$ to an infinite polynomial, which is a recipe allowing us to write a function as a polynomial. At equilibrium, we have $\Dot{x}(x_0)=f(x_0)=0$. Then, since we are very close to the equilibrium, the distance $[x-x_0]$ is very close to zero. The process of linearisation is to approximate to zero all higher orders $[x-x_0]^n$ for $n>1$. Thus, the linearized system, which is valid only if we are close to equilibrium, becomes:
 
 
-**4.-** Update the states based on the reaction that happened.
+$$\Dot{x}=f(x)=\frac{df}{dx}(x_0)[x-x_0]=\lambda[x-x_0].$$
 
+We write $$\frac{df}{dx}(x_0)=\lambda$$ because it is a constant coefficient anyway. Then, we can define $z=[x-x_0]$ (with $\Dot{z}=\Dot{x}$, because $x_0$ is a constant) as the displacement from the equilibrium. Then, we solve this system for $z(t)$, which is a simple exponential solution:
 
-The function has not been optimized but works for simulating every type of system starting from the microscopic reactions. It performs only one update and must be inserted inside a for loop for producing the entire simulation. As input, it requires:
+$$\frac{dz}{dt}=\lambda z$$
 
+$$z(t)=z(0)e^{\lambda t}.$$
 
-**1.-** The current number of molecules/individuals in a specific state through a vector of size equal to the number of possible states and each entry the number of individuals in that state.
+Then, if we perturb the equilibrium with a displacement $z(0)$, will the system return to equilibrium or will it diverge away from it? It all depends on the derivative $\lambda$. If $\lambda<0$, then the equilibrium will be restored, making this equilibrium stable (what happens if $\lambda=0$?). Therefore, we have the condition for stability of the equilibrium $x_0$:
 
+$$\frac{df}{dx}(x_0)<0,$$
 
-**2.-** A vector containing the reaction rates.
-	
- 
-**3.-** A matrix indicating the stoichiometry of the reagents, with the number of rows equal to the number of reactions, and number of columns equal to the number of possible states, and entries equal to the number of species of that state that must encounter to produce the specific reaction. 
-	
- 
-**4.-** A matrix indicating the stoichiometry of the products, with the number of rows equal to the number of reactions, and number of columns equal to the number of possible states, and entries equal to the number of species of that state that are produced from that specific reaction. 
+which means that the derivative of the curve defining $\Dot{x}$ as a function of $x$, when evaluated at the equilibrium, determines its stability.
 
+As an example, consider the logistic growth:
 
-**5.-** A parameter omega indicating the spatial scale of the system.
+$$\Dot{x}=rx(1-\frac{x}{K}).$$
 
+It has an equilibrium $x_0=K$. The linearised system around this equilibrium is
 
-As output, it gives a vector containing the waiting time, the number of the reaction the occurred, and the new number of individuals/molecules in each state.
+$$\Dot{x}=-r[x-K].$$
 
-
-It could be a good test to modify the code to simulate clonal logistic growth by using these reactions: A -> 0 with rate 0.05, A -> 2A with rate 0.2, 2A -> A with rate 0.05. You can start multiple replicates by having only one individual and set omega to 50.
-
-**Part 2 Replication of the results of the paper "Noise-induced effects in collective dynamics and inferring local interactions from data"** 
-
-[Jhawar J, Guttal V. (2020) Phil. Trans. R. Soc. B 375: 20190381. http://dx.doi.org/10.1098/rstb.2019.0381](http://dx.doi.org/10.1098/rstb.2019.0381)
-
-The replication of the results consists of two parts, one applied to the voter model, and one applied to the higher order interactions model (see the paper for details). The only difference between the two is that the higher order interactions also has a reaction of the type 2A + B -> 3A, which leads to a non-linear per capita rate of change in the ordinary differential equation and consensus formation with multi-stability in the limit of infinite population size (not present in the voter model).  For each model it is shown examples of the dynamics through 20 replicates of the time series obtained iterating the Gillespie algorithm and the probability density of the population being in certain states. Interestingly, also the voter model shows consensus and multi-stability! This is because of the constructive effect of intrinsic noise. To better understand this result, it is possible to fit a Langevin equation to the time series we have simulated and find the functional form of the deterministic (drift) and stochastic (diffusion) terms. Despite the Langevin equation being an approximation, it explicitly defines a term for stochasticity, enabling us to investigate noise, quite cool.
-
-
-To fit the data, we first have to find the autocorrelation function for figuring out the best time scale (see paper for details).
-
+Then, if $-r<0$, this equilibrium is stable. That is $r>0$.
 
 $$ACF(\tau) = \frac{\langle (M(t) - \langle M(t) \rangle ) (M(t+\tau)- \langle M(t) \rangle) \rangle}{\langle (M(t) - \langle M(t) \rangle)^{2} \rangle }$$
 
