@@ -100,6 +100,7 @@ $$\begin{align}
 \end{align}$$
 
 Now we impose that $\dot{v}$ is zero at equilibrium, so $f(x_0,y_0)=g(x_0,y_0)=0$, then we define the vector of displacement from equilibrium
+
 $$\begin{align}
     z &= \begin{bmatrix}
            [x-x_0] \\
@@ -232,6 +233,6 @@ $$\begin{align}
          \end{bmatrix}e^{-it}.
 \end{align}$$
 
-How can the solution be complex if $z(t)$ is real? The answer is that the solution is, in fact, real. It can be rewritten in terms of real sines and cosines (using Euler's formula), and this also explains why imaginary parts of eigenvalues translate into oscillations.
+***How can the solution be complex if $z(t)$ is real?*** The answer is that the solution is, in fact, real. It can be rewritten in terms of real sines and cosines (using Euler's formula), and this also explains why imaginary parts of eigenvalues translate into oscillations.
 
 Complex eigenvalues can be divided into real and imaginary parts. The real parts will determine the stability, so the criteria actually states that the largest real part of an eigenvalue has to be negative for the equilibrium to be stable. The imaginary parts determine oscillations. That's because, in the end, the real solution features real parts of the eigenvalues leading the exponentials and the imaginary parts transformed into sines and cosines. In the case of the Lotka-Volterra above, the real parts are all zero, so the equilibrium is actually neutral. Thus, the system oscillates around the equilibrium with neutral amplitude (it depends on the size of the perturbation).
