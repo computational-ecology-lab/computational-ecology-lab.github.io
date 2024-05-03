@@ -2,8 +2,8 @@
 name: Grace Balchin
 startdate: [2023-12-01]
 enddate: []
-image: /static/img/members/balchin.png
-altimage: /static/img/members/balchin.png
+image: /static/img/members/Balchin.jpg
+altimage: /static/img/members/Balchin.jpg
 position: Year In Applied Research, BSc Student
 #subsequent:  update once you become an alumnus
 pronouns: they/them/theirs
