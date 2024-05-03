@@ -207,14 +207,14 @@ At the Computational Ecology Lab we are excited to share science with anyone int
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="gold" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">PhD student</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="blue" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">MRes student</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="green" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">BSc student</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="turquoise" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Research specialist</text>
-{% assign yposition = yposition | plus: legendboxspacing %}
-<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="blue" />
-<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">MRes student</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="purple" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text>
