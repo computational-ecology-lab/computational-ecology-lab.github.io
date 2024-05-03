@@ -11,7 +11,7 @@ Last week Grace presented our research on the modelling of stage-structured popu
 
 An excellent representation of the current research in our lab in collaboration with the [SHOAL group](https://www.shoalgroup.org/) at Swansea lead by Dr Andrew King.
 
-# Abstract
+## Abstract
 Chacma baboons living on the Cape Peninsula, being a geographically isolated and highly managed population, are an ideal study population for investigating the effects of human management practices on primate population dynamics. Using census data, we aim to model the population to provide a mechanistic understanding of its demographic processes and run simulations to investigate the impact of different management methods on the population’s stability.
 
  <img src="/static/img/pub/2024_Balchin_poster.png" alt="poster picture" class="img-fluid" width="450">
