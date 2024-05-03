@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-Last week Grace presented our research on the modelling of stage-structured population dynamics in Chacma Baboons in South Africa at the [ASAB Spring Conference 2024](https://www.asab.org/conferences-events/2024/1/9/asab-spring-2024)!
+Last week Grace presented our research on the modelling of stage-structured population dynamics in Chacma Baboons in South Africa at the [ASAB Spring Conference 2024](https://asabspring2024.github.io/)!
 
 An excellent representation of the current research in our lab in collaboration with the [SHOAL group](https://www.shoalgroup.org/) at Swansea lead by Dr Andrew King.
 
