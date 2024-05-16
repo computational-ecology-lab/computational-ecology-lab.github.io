@@ -10,7 +10,7 @@ This week and the next we are visiting my long-term research collaborator **Prof
 
 Under the framework of my project **The origin of complex symbioses** funded by the **[Leverhulme Trust](https://www.leverhulme.ac.uk/)**, Gui and I are working with Torsten in the development of a theoretical framework to better understand the mechanisms behind the assemly of complex microbiomes!
 
-<img src="/static/img/pub/2024_UNSW_Visit.jpg" alt="poster picture" class="img-fluid" width="450">
+<img src="/static/img/pub/2024_UNSW_Visit.jpg" alt="picture at the uni" class="img-fluid" width="450">
 
 We have had a lot of fun talking about the ecological and evolutionary mechanisms responsible for the emergence of two very different strategies adopted by marine sponges: the [dichotomy between high and low microbial abundance sponges](https://doi.org/10.1111/j.1574-6941.2005.00046.x).
 
