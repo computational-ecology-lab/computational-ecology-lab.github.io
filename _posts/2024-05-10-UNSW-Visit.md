@@ -16,7 +16,7 @@ We have had a lot of fun talking about the ecological and evolutionary mechanism
 
 Torsten also kindly organised a seminar to showcase our research where I presented our work on: **Network perspectives on community assembly and disassembly**
 
-## Abstract
+**Abstract**
 Quantifying general patterns of community structure, and the mechanisms behind them, is key to understand the persistence and collapse of complex ecological communities. To achieve this, we should develop holistic approaches that not only consider species composition but also ecological interactions between them. We tackle this challenge by unveiling empirical patterns of species interactions networks alongside theoretical approaches that enable a better understanding of their assembly and disassembly.
 
 In this talk, I will present empirical and theoretical examples of this approach applied to microbial marine and terrestrial vertebrate systems. On the microbial side, we explore the relation between biofilm microbial network structure and the successful settlement of coral larvae. We complement this with a mechanistic theoretical approach to microbial community dynamics in the host-associated microbiome to investigate the emergence of host types in marine sponges. Focusing on terrestrial avian communities, we assess the beneficial effects of protected areas on food web structure and relate these changes to considerations of biomass flow across the ecosystem. Lastly, I will present a theoretical approach to predicting Network-Area relationships. This contributes to existing knowledge on the spatial scaling of biodiversity.
