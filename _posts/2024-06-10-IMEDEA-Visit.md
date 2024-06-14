@@ -14,6 +14,8 @@ Lucie joined us for a couple of days and she also had the change to discuss with
 
 Anna kindly organised for me to give a seminar on **Understanding the network structure of ecosystems to guide conservation action** where I shared our current research on microbial communities and the understanding of the effects of protected areas on food web structure.
 
+<p style="text-align:center;"><img src="/static/img/pub/2024_IMEDEA_Visit-4.jpg" alt="IMEDEA" class="img-fluid" width="400"></p>
+
 We not only enjoyed the research but also the amazing food and some afternoon hikes around the Esporles surroundings!
 
 **Thanks to Anna, Isa, Alba, Max, Andrea, Manolo, Giacomo and many people @ IMEDEA for the great times!**
