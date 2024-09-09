@@ -6,7 +6,7 @@ layout: post
 group: news
 tags: 
 ---
-This week our time in Australia comes to an end with a visit to my long-term research collaborator and frind **Prof Nicole Webster**. Nicole is a reserach scientist a the **[Institute for Marine and Antarctic Studies of the University of Tasmania](https://www.imas.utas.edu.au/)**. 
+This week our time in Australia comes to an end with a visit to my long-term research collaborator and friend **Prof Nicole Webster**. Nicole is a reserach scientist a the **[Institute for Marine and Antarctic Studies of the University of Tasmania](https://www.imas.utas.edu.au/)**. 
 
 From a microbial ecology and evolutionary perspective of the sponge-associated microbiome, she is helping us develop the theoretical framework for the assembly of complex symbioses that we are currently building as part of my project **The origin of complex symbioses** funded by the **[Leverhulme Trust](https://www.leverhulme.ac.uk/)**.
 
