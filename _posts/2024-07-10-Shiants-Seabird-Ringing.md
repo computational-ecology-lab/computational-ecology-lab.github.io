@@ -16,9 +16,9 @@ The research that the Shiants Seabird Research Group does on the isles contribut
 
 I will be forever thankful to the BTO for their support and the Shiants Searbird Research Group for welcoming me into the group during the week and making me feel like one of their own. I had a great time sleeping in a tent for the whole week, getting water from the well, helping out to move the dinghy about, and just in general being in an amazing and remote location "off the grid"!
 
-<p style="text-align:center;"><img src="/static/img/news/2024_shiants-2.jpg" alt="shiants" class="img-fluid" width="500"> &nbsp; <img src="/static/img/news/2024_shiants-3.jpg" alt="shiants" class="img-fluid" width="400"> &nbsp; <img src="/static/img/news/2024_shiants-4.jpg" alt="shiants" class="img-fluid" width="400"></p>
+<p style="text-align:center;"><img src="/static/img/news/2024_shiants-2.jpg" alt="shiants" class="img-fluid" width="400"> &nbsp; <img src="/static/img/news/2024_shiants-3.jpg" alt="shiants" class="img-fluid" width="250"> &nbsp; <img src="/static/img/news/2024_shiants-4.jpg" alt="shiants" class="img-fluid" width="300"></p>
 
-<img style="float: right;" src="/static/img/news/2024_shiants-5.jpg" alt="shiants" class="img-fluid" width="200">
+<img style="float: right;" src="/static/img/news/2024_shiants-5.jpg" alt="shiants" class="img-fluid" width="300">
 
 And of course, the wildlife. Species seen included white-tailed eagle (*Haliaeetus albicilla*), razorbill (*Alca torda*), common guillemot (*Uria aalge*), arctic tern (*Sterna paradisaea*), great and arctic skua (*Stercorarius skua* and *Stercorarius parasiticus*), european storm petrel (*Hydrobates pelagicus*), atlantic puffin (*Fratercula arctica*), european shag (*Phalacrocorax aristotelis*) among other nice birds!
 
