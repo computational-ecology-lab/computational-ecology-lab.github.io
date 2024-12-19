@@ -9,7 +9,7 @@ Our lab welcomes applicants from any backgrounds. Our mission is to develop a di
 
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. I am interested in engaging with you in a conversation about your scientific background and goals for your future career.
 
-## Current openings
+##Current openings
 
 We are currently looking for PhD students interested in different areas of computational modelling! Check out the links below (including how to apply)
 
@@ -19,6 +19,6 @@ We are currently looking for PhD students interested in different areas of compu
 
 [1 PhD position in assessing the extinction risk of African Baobab.](https://www.findaphd.com/phds/project/cr2025-46-assessing-extinction-risk-for-the-african-baobab-adansonia-digitata-l-under-climate-change-and-habitat-degradation/?p178946)
 
-## Further opportunities
+##Further opportunities
 
 If you are a Chinese national and eligible to apply for the CSC scholarships, check out this [Swansea University Scholarship](https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-su-phd-chinese-2025-rs739.php). We can discuss ideas for your project and submit an application.
