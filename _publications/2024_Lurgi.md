@@ -11,8 +11,6 @@ pdf: "https://www.orientalbirdclub.org/birdingasia-42"
 pdbs:
 github:
 links:
-  - name: See the bulletin's issue with the paper here.
-    url: https://www.orientalbirdclub.org/birdingasia-42
   - name: This species was only recently described to science!
     url: hhttps://www.birdguides.com/articles/taxonomy/new-flowerpecker-species-described-from-borneo/
 ---
