@@ -1,5 +1,5 @@
 ---
-title: "A new sighting of Spectacled Flowerpecker *Dicaeum dayakorum* - the first in Sabah (Malaysia) for 10 years" 
+title: "A new sighting of Spectacled Flowerpecker Dicaeum dayakorum - the first in Sabah (Malaysia) for 10 years" 
 authors: "**Lurgi M**, Ferguson L & Lidgett J"
 journal: "BirdingASIA"
 pub_date: "2024-12-31"
