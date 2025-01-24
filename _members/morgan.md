@@ -1,7 +1,7 @@
 ---
 name: Oliver Morgan
 startdate: [2022-10-01]
-enddate: []
+enddate: [2024-07-01]
 image: /static/img/members/Morgan.jpg
 altimage: /static/img/members/Morgan.jpg
 position: MRes Student

@@ -2,12 +2,12 @@
 name: Abigail Turnlund
 timeline_name: Abby
 startdate: [2020-01-01]
-enddate: 
+enddate: [2024-03-01]
 image: /static/img/members/Turnlund.jpeg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Turnlund.jpeg #365 x 365 pixels, 72 dpi
 position: PhD Student
-#subsequent: 
-pronouns: 
+subsequent: Postdoctoral Researcher at the Institute for Functional Marine Biodiversity at the University of Oldenburg (HIFMB), Germany
+pronouns: The network structure of microbial communities inducing coral larval settlement
 email:  a.turnlund (at) uq.edu.au #Preferred public email address
 scholar: ExVlqNcAAAAP
 website:
