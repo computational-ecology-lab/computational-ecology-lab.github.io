@@ -6,7 +6,7 @@ image: /static/img/members/Morgan.jpg
 altimage: /static/img/members/Morgan.jpg
 position: MRes Student
 #subsequent:  update once you become an alumnus
-pronouns: he/him/his
+pronouns: Assessing the distribution of are endemic hyperoceanic bryophytes in the UK
 email: o.morgan631 (at) gmail.com
 scholar: -0-i_NQAAAAJ
 website: 
