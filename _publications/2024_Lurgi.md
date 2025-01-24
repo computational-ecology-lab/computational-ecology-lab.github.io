@@ -7,7 +7,7 @@ image: "/static/img/news/2024_Borneo-8.jpg"
 pmid: 
 pmcid: #"PMC#######"
 biorxiv_version: 
-pdf: #""
+pdf: "https://www.orientalbirdclub.org/birdingasia-42"
 pdbs:
 github:
 links:
