@@ -15,7 +15,7 @@ I was very excited to hear about the projects from the members of the lab. From 
 
 Xinran kindly helped organising a seminar I presented about current work in our lab on **Assessing the effects of protected areas on spatial food webs** for the Department. The seminar sparked a nice discussion on modelling approaches for conservation that I am hoping would serve as a basis for future joint projects.
 
-<img src="/static/img/news/2025_Cambridge_3.jpg" alt="Presentation" class="img-fluid" width="500">
+<p style="text-align:center;"><img src="/static/img/news/2025_Cambridge_3.jpg" alt="Presentation" class="img-fluid" width="500"></p>
 
 Aside from the interesting scientific sessions we had, it was very inspiring just to work for a couple of days at the David Attenborough Building, where many nature conservation NGOs such as [BirdLife](https://www.birdlife.org/) and [RSPB](https://www.rspb.org.uk/) are based. A truly inspiring place to work.
 
