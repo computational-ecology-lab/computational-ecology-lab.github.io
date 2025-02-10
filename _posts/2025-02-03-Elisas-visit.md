@@ -17,7 +17,7 @@ Elisa is a researcher at the Institute of Ecology and Environmental Sciences of 
 **SEMINAR**
 
 **Species diversity, food web structure and the temporal stability of ecosystems**
-<p style="text-align:center;"> <img src="/static/img/news/2025_Thebault.png" alt="networks" class="img-fluid"> </p>
+<p style="text-align:center;"> <img src="/static/img/news/2025_Thebault.png" alt="networks" class="img-fluid" height="150"> </p>
 
 **ABSTRACT**
 

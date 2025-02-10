@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-<p style="text-align:center;"><img src="/static/img/news/2025_lucie.jpg" alt="Lucie celebrating after her viva" class="img-fluid" height="400"></p>
+<p style="text-align:center;"><img src="/static/img/news/2025_lucie.jpg" alt="Lucie celebrating after her viva" class="img-fluid" height="200"></p>
 
 Today Lucie defended her PhD thesis and became a Dr after passing her viva with minor corrections.
 
