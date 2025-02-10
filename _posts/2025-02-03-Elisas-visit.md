@@ -6,7 +6,7 @@ layout: post
 group: news
 tags: 
 ---
-This week, [Dr Elisa Thébault](https://iees-paris.fr/annuaire/thebault-elisa/), senior researchers at the Ecology and Environmental Sciences Institute of the CNRS, and Sorbonne University, in Paris, is in Swansea for a short visit.
+This week, [Dr Elisa Thébault](https://iees-paris.fr/annuaire/thebault-elisa/), senior researcher at the Ecology and Environmental Sciences Institute of the CNRS, and Sorbonne University, in Paris, is in Swansea for a short visit.
 
 Elisa will share her research with us at the **Biosciences Department Seminar Series** on Friday 7th of February at 10.30 in the Zoology Museum.
 
