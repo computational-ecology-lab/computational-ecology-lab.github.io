@@ -1,6 +1,6 @@
 ---
 title: "Advancing animal behaviour research using drone technology"
-authors: "**Pedrazzi L**, Naik H, Sandbrook C, **Lurgi M**", Fürtbauer I & King AJ
+authors: "**Pedrazzi L**, Naik H, Sandbrook C, **Lurgi M**, Fürtbauer I & King AJ"
 journal: "Animal Behaviour"
 pub_date: "2025-03-20"
 image: "/static/img/pub/2025_Pedrazzi.jpg"
