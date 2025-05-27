@@ -9,7 +9,7 @@ tags:
 
 This week I was honoured with the pleasure to take part on an amazing pioneering gathering of global experts to launch a worldwide microbial conservation initiative. The meeting, held at the [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) in the University of California San Diego, gathered researchers from all over the world working on the most diverse threatened microbial environments as well as conservation practitioners, including representatives from the [International Union for the Conservation of Nature (IUCN)](https://iucn.org/) and their Species Survival Commission.
 
-<img style="float: right;" src="/static/img/news/2025_Microbial-Conservation-Scripps.jpg" alt="Microbial Conservation" class="img-fluid" width="300">
+<img style="float: right;" src="/static/img/news/2025_Microbial-Conservation-Scripps.jpg" alt="Microbial Conservation" class="img-fluid" width="500">
 
 The group aims at raising awareness of the importance of conserving microbes and microbial communities, as well as developing sound strategies to achieve these goals.
 
