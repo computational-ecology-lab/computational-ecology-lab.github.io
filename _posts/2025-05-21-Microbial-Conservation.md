@@ -19,4 +19,6 @@ A Science correspondent joined the meeting and [wrote an interesting piece](http
 
 Many synergies emerged from discussions during the meeting including potential avenues to apply the theoretical ecological models we develop at the Computational Ecology Lab to the successful conservation of complex communities: microbial and macrobial!
 
+<p style="text-align:center;"><img src="/static/img/news/2025_Microbial-Group.jpg" alt="Group photo" class="img-fluid" width="500"></p>
+
 **A huge shout out to Jack and Kent for letting me part of this amazing initiative. Thanks guys!** 
