@@ -11,7 +11,13 @@ We are always in the market for motivated and talented people, even if we do not
 
 ## Current openings
 
-We are currently looking for PhD students interested in different areas of computational modelling! Check out the links below (including how to apply)
+Some exciting opportunities for PhD students just became available looking at different aspects of restoration ecology and how to inform **restoration using computational model of community assembly**. Check out the links below (including how to apply):
+
+[1 PhD position on network approaches to restoration across Wales.](https://www.swansea.ac.uk/postgraduate/scholarships/research/biosciences-fse-welsh-gov-phd-rs849.php)
+
+[1 PhD position on peatland restoration using mechanistic models of species distributions.](https://www.swansea.ac.uk/postgraduate/scholarships/research/biosciences-fse-welsh-gov-phd-rs850.php)
+
+## Past openings
 
 [1 PhD position on network approaches to rewilding.](https://www.findaphd.com/phds/project/cr2025-02-network-approaches-to-rewilding-britain-s-ecosystems/?p178576)
 
