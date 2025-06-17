@@ -13,4 +13,6 @@ github:
 links:
   - name: The original bioRxiv version of the paper can be found here.
     url: https://www.biorxiv.org/content/10.1101/2023.11.30.569404v1
+  - name: A press release for this article was released by the Swansea University press office.
+    url: https://www.swansea.ac.uk/press-office/news-events/news/2025/06/new-research-examines-the-impact-protected-areas-have-on-preserving-biodiversity.php
 ---
