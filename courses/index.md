@@ -13,7 +13,7 @@ I am supporter of the learning-by-doing philosophy of teaching. To encourage thi
 - To learn more about theoretical ecology: [https://padlet.com/miguel_lurgi/me9sk6j2firo](https://padlet.com/miguel_lurgi/me9sk6j2firo)
 
 
-- A entry level tutorial for single population dynamics can be found [here](https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html).
+- A entry level tutorial for single population dynamics can be found here: [https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html](https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html)
 
 
 - To develop coding skills for analysing ecological networks: [https://mlurgi.github.io/networks_for_r/](https://mlurgi.github.io/networks_for_r/)
