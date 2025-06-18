@@ -19,6 +19,8 @@ I am supporter of the learning-by-doing philosophy of teaching. To encourage thi
 - To learn different techniques to analyse different types of ecological networks in community ecology: [https://mlurgi.github.io/serrapilheira_eco_networks/](https://mlurgi.github.io/serrapilheira_eco_networks/)
 
 
+- A entry level tutorial for single population dynamics can be found [here](https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html).
+
 This last resource was developed as part of the Community Ecology and Biodiversity module that I was invited to deliver for the [Training Program in Quantitative Biology and Ecology](https://www.ictp-saifr.org/qbioprogram/) at the [International Centre for Theoretical Physics](https://www.ictp-saifr.org/) in São Paulo, Brazil, in September 2022.
 
 I believe that the best way to learn is by doing and discussing passionately about science. So, please feel free to drop me a line or by my office with any interesting questions or topics about pretty much anything.
