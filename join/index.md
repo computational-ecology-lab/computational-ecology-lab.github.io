@@ -13,7 +13,7 @@ We are always in the market for motivated and talented people, even if we do not
 
 An exciting opportunities for a PhD student just became available looking at **modelling the assembly of microbial communities**. This project involves the experimental testing of theoretical models of community assembly using the microbiome associated with microscopic algae Check out the link below (including how to apply):
 
-[1 PhD position on experimental and theoretical approaches to microbial community assembly.] (https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-epsrc-dtp-phd-biosciences-rs858.php)
+[1 PhD position on experimental and theoretical approaches to microbial community assembly.](https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-epsrc-dtp-phd-biosciences-rs858.php)
 
 
 ## Past openings
