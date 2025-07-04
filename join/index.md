@@ -11,13 +11,16 @@ We are always in the market for motivated and talented people, even if we do not
 
 ## Current openings
 
-Some exciting opportunities for PhD students just became available looking at different aspects of restoration ecology and how to inform **restoration using computational model of community assembly**. Check out the links below (including how to apply):
+An exciting opportunities for a PhD student just became available looking at **modelling the assembly of microbial communities**. This project involves the experimental testing of theoretical models of community assembly using the microbiome associated with microscopic algae Check out the link below (including how to apply):
+
+[1 PhD position on experimental and theoretical approaches to microbial community assembly.] (https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-epsrc-dtp-phd-biosciences-rs858.php)
+
+
+## Past openings
 
 [1 PhD position on network approaches to restoration across Wales.](https://www.swansea.ac.uk/postgraduate/scholarships/research/biosciences-fse-welsh-gov-phd-rs849.php)
 
 [1 PhD position on peatland restoration using mechanistic models of species distributions.](https://www.swansea.ac.uk/postgraduate/scholarships/research/biosciences-fse-welsh-gov-phd-rs850.php)
-
-## Past openings
 
 [1 PhD position on network approaches to rewilding.](https://www.findaphd.com/phds/project/cr2025-02-network-approaches-to-rewilding-britain-s-ecosystems/?p178576)
 
