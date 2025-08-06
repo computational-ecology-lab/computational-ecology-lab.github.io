@@ -56,6 +56,7 @@ $$P\Big(\{x_i,y_i\}\Big|a,b,\sigma\Big)\propto\prod_{i=1}^N \frac{1}{\sqrt{2\pi\
 The structure of this function is almost begging us to work with a log transformation. Luckily, the function $log(f)$ is monotonic on $f$, so the maximum of $f$ is also a maximum of $log(f)$. Therefore, if we maximise $log(L)$, the result will be the same, and it is a much easier task. Then:
 
 $$log(L) = \sum_{i=1}^N \Big( -log(\sqrt{2\pi \sigma^2}) -\frac{(y_i-ax_i-b)^2}{2\sigma^2} \Big)$$
+
 $$log(L) = -Nlog(\sqrt{2\pi}) - Nlog(\sigma) - \sum_{i=1}^N \frac{(y_i-ax_i-b)^2}{2\sigma^2}$$
 
 This is the final expression for the log-likelihood. Now, we perform the maximisation in relation to all parameters by deriving in relation to each of them and equating to zero. All expressions must be valid at the same time (consider all derivatives below as partial derivatives):
