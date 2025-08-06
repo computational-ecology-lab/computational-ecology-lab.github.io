@@ -17,7 +17,7 @@ For this particular experiment, we don't know the specific values of $a$ and $b$
 
 In order to connect data with theory, we must go through Bayes equation, which states:
 
-$$P(Theory|Data) = \frac{P(Data|Theory)P(Theory)}{P(Data)}$$
+$$P(Theory|Data) = \frac{P(Data|Theory)P(Theory)}{P(Data)}.$$
 
 The logical inversion stating that $P(Theory|Data)$ is proportional to $P(Data|Theory)$ is a deep and powerful statement that arguably substantiates science as a whole, because it allows the conversion from knowledge about empirical observations into knowledge about our theories. However, it comes with a strong caveat: scientific theories are (of course) subjected to empirical observations, and the very usage of empirical observations is intrinsically subjected to the existence of theories. In other words, you have to give to receive. Data means nothing unless it is positioned within a theoretical frame (which, by the way, is intrinsically subjective).
 
