@@ -9,7 +9,8 @@ pmcid: #"PMC#######"
 biorxiv_version: 
 pdf: "https://doi.org/10.1098/rspb.2025.0614"
 pdbs:
-github: "https://github.com/computational-ecology-lab/protected-areas-food-webs"
+github:
+  - url: "computational-ecology-lab/protected-areas-food-webs"
 links:
   - name: The original bioRxiv version of the paper can be found here.
     url: https://www.biorxiv.org/content/10.1101/2023.11.30.569404v1

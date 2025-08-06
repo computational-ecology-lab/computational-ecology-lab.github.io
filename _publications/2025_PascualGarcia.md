@@ -9,6 +9,7 @@ pmcid: #"PMC#######"
 biorxiv_version: 
 pdf: "https://doi.org/10.1098/rsos.250123"
 pdbs:
-github:
+github: 
+  - url: "computational-ecology-lab/eco-evolutionary-mutualistic-networks"
 links:
 ---
