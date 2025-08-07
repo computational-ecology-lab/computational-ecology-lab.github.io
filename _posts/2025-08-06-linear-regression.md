@@ -27,7 +27,7 @@ $$y_i = ax_i+b+e_i,$$
 
 where $e_i$ is the error. In the same way as we characterised the relation between the variables (as linear) by selecting a model, we also have to characterise the error by selecting a model for its distribution. This is also a part of the assumed theory, and it can be inferred from the dataset. In the standard linear regression, on top of the linear model, we assume a normal distribution of errors (which means that this is a procedure suited for a dataset following both the facts that the variables are linearly related and the observation errors are normally distributed). Thus, we have:
 
-$$p(e) = \mathcal{N}(e|0,\sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}}exp\Big({-\frac{e^2}{2\sigma^2}}\Big).$$
+$$p(e) = N(e|0,\sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}}exp\Big({-\frac{e^2}{2\sigma^2}}\Big).$$
 
 Now, with a fully determined model, we can instantiate the Bayes equation and the statistical process:
 
