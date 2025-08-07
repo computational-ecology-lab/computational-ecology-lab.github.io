@@ -19,7 +19,11 @@ In order to connect data with theory, we must go through Bayes equation, which s
 
 $$P(Theory|Data) = \frac{P(Data|Theory)P(Theory)}{P(Data)}.$$
 
-The logical inversion stating that $$P(Theory|Data) \propto P(Data|Theory)$$ is a deep and powerful statement that arguably substantiates science as a whole, because it allows the conversion from knowledge about empirical observations into knowledge about our theories. However, it comes with a strong caveat: scientific theories are (of course) subjected to empirical observations, and the very usage of empirical observations is intrinsically subjected to the existence of theories. In other words, you have to give to receive. Data means nothing unless it is positioned within a theoretical frame (which, by the way, is intrinsically subjective).
+The logical inversion stating that 
+
+$$P(Theory|Data) \propto P(Data|Theory)$$ 
+
+is a deep and powerful statement that arguably substantiates science as a whole, because it allows the conversion from knowledge about empirical observations into knowledge about our theories. However, it comes with a strong caveat: scientific theories are (of course) subjected to empirical observations, and the very usage of empirical observations is intrinsically subjected to the existence of theories. In other words, you have to give to receive. Data means nothing unless it is positioned within a theoretical frame (which, by the way, is intrinsically subjective).
 
 So far, our theory says that $y = ax+b$ is the relation between $y$ and $x$. However, when it comes to the actual data points $y_i$ and $x_i$, they do not follow exactly this relation. The problem is: we do not get to know the true values of these variables. There are many sources of errors and limitations in our observations of these variables and, even if our model is true, we do not have access to exact measurements. Therefore, we assume that the relation in the data differs from the expected model by an error. Thus, an updated model has to be applied to the data (and not to abstract $x$ and $y$ variables), and it involves the existence of the error:
 
