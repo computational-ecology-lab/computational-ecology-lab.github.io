@@ -11,12 +11,11 @@ We are always in the market for motivated and talented people, even if we do not
 
 ## Current openings
 
-An exciting opportunities for a PhD student just became available looking at **modelling the assembly of microbial communities**. This project involves the experimental testing of theoretical models of community assembly using the microbiome associated with microscopic algae Check out the link below (including how to apply):
-
-[1 PhD position on experimental and theoretical approaches to microbial community assembly.](https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-epsrc-dtp-phd-biosciences-rs858.php)
-
+I am happy to support applications to postdoctoral fellowships such as Marie Curie (European) and Newton (UK) fellowships. Do get in touch if you are interested in exploring these options.
 
 ## Past openings
+
+[1 PhD position on experimental and theoretical approaches to microbial community assembly.](https://www.swansea.ac.uk/postgraduate/scholarships/research/fse-epsrc-dtp-phd-biosciences-rs858.php)
 
 [1 PhD position on network approaches to restoration across Wales.](https://www.swansea.ac.uk/postgraduate/scholarships/research/biosciences-fse-welsh-gov-phd-rs849.php)
 

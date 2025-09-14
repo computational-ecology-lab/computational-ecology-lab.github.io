@@ -1,11 +1,11 @@
 ---
 name: Grace Balchin
 startdate: [2023-12-01]
-enddate: []
+enddate: [2024-08-31]
 image: /static/img/members/Balchin.jpg
 altimage: /static/img/members/Balchin.jpg
 position: Year In Applied Research, BSc Student
-#subsequent:  update once you become an alumnus
+subsequent: Marine Biology graduate
 pronouns: they/them/theirs
 email: 2112643 (at) swansea.ac.uk 
 scholar:

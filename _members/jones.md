@@ -1,11 +1,11 @@
 ---
 name: Amelia Jones
 startdate: [2023-09-30]
-enddate: []
+enddate: [2025-07-24]
 image: /static/img/members/Jones.png
 altimage: /static/img/members/Jones.png
 position: MRes Student
-#subsequent:  update once you become an alumnus
+subsequent: Research Technician at the SEACAMS2, Swansea
 pronouns: 
 email: 2009992 (at) swansea.ac.uk 
 scholar:

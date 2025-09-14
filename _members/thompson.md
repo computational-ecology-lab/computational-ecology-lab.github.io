@@ -1,12 +1,12 @@
 ---
 name: Lucie Thompson
 startdate: [2021-10-01]
-enddate: []
+enddate: [2025-07-24]
 image: /static/img/members/Thompson.jpg # 365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Thompson.jpg #365 x 365 pixels, 72 dpi
 position: PhD Student
 timeline_group: 
-#subsequent:  update once you become an alumnus
+subsequent: Postdoctoral Researcher at the French Natural History Museum, Paris
 pronouns: she/her/hers
 email: lucie.thompson (at) swansea.ac.uk #Preferred public email address
 scholar: #Google Scholar User ID
