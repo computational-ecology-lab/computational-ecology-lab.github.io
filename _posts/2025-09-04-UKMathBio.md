@@ -15,7 +15,7 @@ The idea behind the connection is to first establish the individual-level dynami
 
 The second part of the presentation featured our [framework](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00214-2) and the model we developed within it to describe microbiome assembly. This model highlights the interplay of three mechanisms: microbial dispersal, enrichment within the host environment, and microbe–resource interactions. We used this model to describe richness and abundance patterns observed in marine sponge data. Sponge species are classified into two broad categories relating to their microbiome, sponges with high and low microbial abundance (HMA and LMA). HMA and LMA sponge species differ in all three mechanisms as a consequence of their differences in pumping rates, host selection, and degree of resource allocation from host to microbes. In our (upcoming) work, we compared the model simulations with real sponge data and showed a substantial agreement between the two.
 
-<p <img style="text-align:center;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid" width="650"> <\p>
+<p <img style="text-align:center;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid" width="1000"> <\p>
 
 This conference was a great opportunity to engage with other mathematicians/physicists working in several fields of biology in the UK and think about how interesting it is that the same methods can be used to investigate so many different aspects of life sciences.
 
