@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-<img style="float: right; width: 40%;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid">
+<img style="float: right; width: 60%;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid">
 
 In early September, the first [UK Mathematical Biology Conference](https://ukmathbioconference.github.io/) took place at the University of Birmingham. Our lab was represented by Gui Araujo, who presented a poster showcasing our microbiome assembly framework.
 
