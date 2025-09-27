@@ -12,8 +12,8 @@ email: 2540740 (at) swansea.ac.uk
 scholar:
 website:
 twitter:
-linkedin:
-github: 
+linkedin: jooyoung-ser-a829101bb
+github: joobaloo
 orcid: 
 description: "I am a PhD student at the Computational Ecology Lab at Swansea University, co-supervised by Dr Miguel Lurgi and Dr Steve Slocombe. My PhD explores the dynamics of microbial assembly both ***in vitro*** and ***in silico*** specifically in the context of algal bioreactors.
 
