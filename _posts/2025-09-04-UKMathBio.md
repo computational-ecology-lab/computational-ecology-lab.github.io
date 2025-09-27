@@ -9,7 +9,7 @@ tags:
 
 In early September, the first [UK Mathematical Biology Conference](https://ukmathbioconference.github.io/) took place at the University of Birmingham. Our lab was represented by Gui Araujo, who presented a poster showcasing our microbiome assembly framework.
 
-<img style="float: right;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid" width="200">
+<img style="float: right;" src="/static/img/news/2025-09-04-UKMathBio-1.png" alt="Poster" class="img-fluid" width="400">
 
 The presentation was structured in two parts. The first focused on powerful methods from stochastic calculus that substantiate the connection between 1) specific events creating and destroying individuals and 2) global changes in densities represented by continuous flows. Many researchers at the conference work with these tools, which provided a natural entry point to discuss our extensions of the population dynamics framework. The individual-population connection is particularly relevant for the mechanistic modelling of ecological populations, since equations such as the classic [Lotka-Volterra](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) can only be directly linked to dynamics at the level of real individuals through a connection like this one. It also serves as the first step of the connections explored in our [microbiome assembly framework ](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(24)00214-2), ultimately going through the multilayer route of individual -> population -> community -> metacommunity.
 
