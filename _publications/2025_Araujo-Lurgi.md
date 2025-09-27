@@ -1,7 +1,7 @@
 ---
 title: "Mutualism provides a basis for biodiversity in eco-evolutionary community assembly"
 authors: "**Araujo G** & **Lurgi M**"
-journal: "PLoS Computational Ecology"
+journal: "PLoS Computational Biology"
 pub_date: "2025-09-02"
 image: "/static/img/pub/2025_Araujo-Lurgi.png"
 pmid: 
