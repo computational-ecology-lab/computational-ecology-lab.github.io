@@ -17,7 +17,7 @@ We also had microscopes with an assortment of slides that everybody could use to
 
 For those more interested in the science behind it all we also had informative flyers to take home detailing how we go from thinking about microbes and marine sponges to abstracting those associations into concepts of evolution, metacommunities and symbioses. We then built up all the way to a 3rd tier of complexity linking those concepts to mathematical equations and models that help us reason about these complex, yet fundamental ecosystems that persist all around us and without which life on Earth would not be possible.
 
-<p style="text-align:center;"><img src="/static/img/news/2025_Sci-Fest-Fly-1.png" alt="Tier 1" class="img-fluid" width="200"> &nbsp; <img src="/static/img/news/2025_Sci-Fest-Fly-2.png" alt="Tier 2" class="img-fluid" width="200"> &nbsp; <img src="/static/img/news/2025_Sci-Fest-Fly-3.png" alt="Tier 3" class="img-fluid" width="200"> </p>
+<p style="text-align:center;"><img src="/static/img/news/2025_Sci-Fest-Fly-1.png" alt="Tier 1" class="img-fluid" width="300"> &nbsp; <img src="/static/img/news/2025_Sci-Fest-Fly-2.png" alt="Tier 2" class="img-fluid" width="300"> &nbsp; <img src="/static/img/news/2025_Sci-Fest-Fly-3.png" alt="Tier 3" class="img-fluid" width="300"> </p>
 
 At the end of the day we got a wall full of handcrafted microbiomes from all the kids that visited our exhibit. All in all it was great fun!
 
