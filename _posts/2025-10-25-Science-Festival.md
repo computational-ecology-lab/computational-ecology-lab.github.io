@@ -24,6 +24,6 @@ At the end of the day we got a wall full of handcrafted microbiomes from all the
 <p style="text-align:center;"><img src="/static/img/news/2025_Science-Festival-Wall.jpg" alt="Title" class="img-fluid" width="500"> </p>
 
 
-**The Leverhulme Trust supported our stand through Research Project RPG-2022-114 to ML.**
+**The Leverhulme Trust supported our stand at the Science Festival through Research Project Grant RPG-2022-114 to ML.**
 
 **Thanks to Gui, Jooyoung and Olivia for all your help. And thanks to the organisers, and Delyth in particular, for a great festival.** 
