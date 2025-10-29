@@ -11,6 +11,6 @@ pdf: "https://link.springer.com/content/pdf/10.1007/s10113-023-02177-1.pdf"
 pdbs:
 github:
 links: 
-  - name: Collaboration with Dr Claramunt-López's lab @ CREAF"
+  - name: Collaboration with Dr Claramunt-López's lab @ CREAF
     url: https://www.creaf.cat/
 ---

@@ -16,4 +16,6 @@ links:
     url: "https://miguellurgi.shinyapps.io/chile-intertidal-shinyapp/"
   - name: "This article was featured in the Bulletin of the Ecological Society of America"
     url: "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1789"
+  - name: "This paper was featured in one of the pieces I wrote for The Conversation"
+    url: "https://theconversation.com/live-fast-die-small-how-global-heating-is-simplifying-the-worlds-ecosystems-144976"
 ---
