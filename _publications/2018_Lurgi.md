@@ -10,7 +10,6 @@ biorxiv_version:
 pdf: "https://doi.org/10.1111/1365-2664.13188"
 pdbs:
 github:
-  - url: 
 links:
   - name: "I wrote a piece to The Conversation about the results of this paper"
     url: "https://theconversation.com/a-numbers-game-killing-rabbits-to-conserve-native-mammals-97078"
