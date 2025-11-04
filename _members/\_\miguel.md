@@ -16,7 +16,7 @@ linkedin:
 github: computational-ecology-lab
 orcid: 0000-0001-9891-895X
 ebird: OTgxOTUy
-the-conversation: miguel-lurgi-485251
+theconversation: miguel-lurgi-485251
 description: "Miguel obtained his **BEng in Computer Engineering** in 2003 at the Simón Bolívar University (Caracas, Venezuela), for which he was awareded **Cum Laude** honours. 
 He did his thesis, entitled: **A Constraint Programming Language for C++** under the supervision of Dr. Héctor Palacios.
 He was a member of the Artificial Intelligence Group, working on robotics, neural networks, genetic algorithms and individual-based models.

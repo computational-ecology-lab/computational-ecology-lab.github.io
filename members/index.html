@@ -56,9 +56,9 @@ At the Computational Ecology Lab we are excited to share science with anyone int
                   <a href="http://ebird.org"><img class="inline-bloc mem-icon" src="/static/img/logo/ebird_logo.png"></a>
                   <a href= "https://ebird.org/profile/{{member.ebird}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Observations </a> <br>
                 {% endif %}
-                {% if member.the-conversation %}
+                {% if member.theconversation %}
                   <a href="https://theconversation.com/"><img class="inline-bloc mem-icon" src="/static/img/logo/the-conversation_logo.png"></a>
-                  <a href= "https://theconversation.com/profiles/{member.the-conversation}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Observations </a> <br>
+                  <a href= "https://theconversation.com/profiles/{member.theconversation}}"> The Conversation </a> <br>
                 {% endif %}
             </div>
             <div class="col-sm-8">
