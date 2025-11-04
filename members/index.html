@@ -52,9 +52,13 @@ At the Computational Ecology Lab we are excited to share science with anyone int
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
-		{% if member.ebird %}
+        		{% if member.ebird %}
                   <a href="http://ebird.org"><img class="inline-bloc mem-icon" src="/static/img/logo/ebird_logo.png"></a>
                   <a href= "https://ebird.org/profile/{{member.ebird}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Observations </a> <br>
+                {% endif %}
+                {% if member.the-conversation %}
+                  <a href="https://theconversation.com/"><img class="inline-bloc mem-icon" src="/static/img/logo/the-conversation_logo.png"></a>
+                  <a href= "https://theconversation.com/profiles/{member.the-conversation}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Observations </a> <br>
                 {% endif %}
             </div>
             <div class="col-sm-8">
