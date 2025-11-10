@@ -12,6 +12,8 @@ pdbs:
 github:
   - url: "computational-ecology-lab/protected-areas-food-webs"
 links:
+  - name: I wrote an article for The Conversation about this work and the importance of assessing ecological interactions when considering the effectiveness of Protected Areas
+    url: https://theconversation.com/why-national-parks-and-nature-reserves-dont-always-safeguard-ecosystems-as-expected-266623
   - name: The original bioRxiv version of the paper can be found here.
     url: https://www.biorxiv.org/content/10.1101/2023.11.30.569404v1
   - name: A press release for this article was released by the Swansea University press office.
