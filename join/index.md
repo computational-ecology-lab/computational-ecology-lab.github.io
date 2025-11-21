@@ -11,7 +11,7 @@ We are always in the market for motivated and talented people, even if we do not
 
 ## Current openings
 
-We have a current opening for a PhD student working at the intersection between ecological modelling and experiments. The research topic is on **Metapopulation dynamics of pollinating bees under pesticide pressure**. The full project description can be found [here](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2025/11/swbio-26-projectAP-8.pdf), and the instructions for how to apply [here](https://www.swbio.ac.uk/programme/how-to-apply/). Feel free to get in touch directly with me if you have any questions.
+We have a current opening for a PhD student working at the intersection between ecological modelling and experiments. The research topic is on [**Metapopulation dynamics of pollinating bees under pesticide pressure**](https://www.swansea.ac.uk/postgraduate/scholarships/research/environmental-biosciences-bbsrc-swbio-dtp-phd-metapopulation-dynamics-.php). The full project description can be found [here](https://bpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/f/373/files/2025/11/swbio-26-projectAP-8.pdf), and the instructions for how to apply [here](https://www.swbio.ac.uk/programme/how-to-apply/). Feel free to get in touch directly with me if you have any questions.
 
 I am happy to support applications to postdoctoral fellowships such as Marie Curie (European) and Newton (UK) fellowships. Do get in touch if you are interested in exploring these options.
 
