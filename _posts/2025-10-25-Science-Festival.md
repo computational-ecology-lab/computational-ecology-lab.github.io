@@ -9,7 +9,7 @@ tags:
 
 This weekend we were delighted to present our research at the annual [Swansea Science Festival](https://www.swansea.ac.uk/swansea-science-festival/). It was a great opportunity to talk about microbes, sponges and microbial communities to kids, parents and attendees of all ages. We even had some visitors from the Star Wars world who wanted to know more about microbiomes!
 
-Our stand was full of engaging activities from soft toys that looked like microbes and kids could sort into handcrafted sponges to build-your-own microbiome crafts for children!.
+Our stand was full of engaging activities from soft toys that looked like microbes and kids could sort into handcrafted sponges to build-your-own microbiome crafts for children!
 
 <p style="text-align:center;"><img src="/static/img/news/2025_Science-Festival-1.jpg" alt="Stand" class="img-fluid" width="500"> &nbsp; <img src="/static/img/news/2025_Science-Festival-2.jpg" alt="Stormtroopers" class="img-fluid" width="500"> </p>
 
