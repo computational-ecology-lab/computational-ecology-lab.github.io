@@ -9,7 +9,7 @@ tags:
 
 This week I once again had the pleasure to share the lab's research with scientists from around the world at the [Annual Meeting of the BES](https://www.britishecologicalsociety.org/content/bes-annual-meeting-2025/), this year in Edinburgh!
 
-<img style="float: right;" src="/static/img/news/2025-12-16-BES-Edinburgh.jpg" alt="Miguel Poster Presentation" class="img-fluid" width="400">
+<img style="float: right;" src="/static/img/news/2025-12-16-BES-Edinburgh.jpg" alt="Miguel Poster Presentation" class="img-fluid" width="300">
 
 With countless interesting talks and posters, thematic sessions and just the vibrant atmosphere, this meeting is always a chance to catch up with friends and colleagues on the latest developments of our research and have fun while doing it. This year, I also contributed in other ways by joining a **focus group** where we discussed the impact of the Annual Meeting on our research and on ecological science. Thanks Rachel for the chance to join this group!
 
