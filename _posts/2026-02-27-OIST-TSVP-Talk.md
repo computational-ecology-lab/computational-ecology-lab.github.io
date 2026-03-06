@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-<a title="OIST from Onna Village, Japan, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sunset_at_OIST_(26614424357).jpg"><img width="512" alt="Sunset at OIST (26614424357)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sunset_at_OIST_%2826614424357%29.jpg/512px-Sunset_at_OIST_%2826614424357%29.jpg?_=20190629205955"></a>
+<p style="text-align:center;"><img src="/static/img/news/2026_OIST.jpg" alt="OIST" class="img-fluid" width="700"></p>
 
 This year, for a few months, I am developing my research at the [Okinawa Institute of Science and Technology (OIST)](https://www.oist.jp/), a truly amazing place to conduct interdisciplinary research and experience the Japanese culture.
 
