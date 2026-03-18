@@ -10,10 +10,13 @@ Teaching Ecological Theory is one of my favourite activities. Especially focusin
 
 I am supporter of the learning-by-doing philosophy of teaching. To encourage this in students I have put together a series of online resources:
 
+- I recently ran a Mini Course on Population and Community Ecology for graduate students at the Okinawa Institute of Science and Technology. I have made the course material available on the [lab's GitHub repo](https://github.com/computational-ecology-lab/OIST-community-ecology) comprising lectures and computer coding tutorials for the theoretical models and tools we learnt. Code away and enjoy! 
+
+
 - To learn more about theoretical ecology: [https://padlet.com/miguel_lurgi/me9sk6j2firo](https://padlet.com/miguel_lurgi/me9sk6j2firo)
 
 
-- A entry level tutorial for single population dynamics can be found here: [https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html](https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html)
+- An entry level tutorial for single population dynamics can be found here: [https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html](https://computational-ecology-lab.github.io/single-population-workshop/populations-workshop.html)
 
 
 - To develop coding skills for analysing ecological networks: [https://mlurgi.github.io/networks_for_r/](https://mlurgi.github.io/networks_for_r/)
