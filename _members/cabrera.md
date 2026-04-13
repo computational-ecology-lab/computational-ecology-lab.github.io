@@ -1,7 +1,7 @@
 ---
 name: Joandry Cabrera
 startdate: [2025-01-20]
-enddate: []
+enddate: [2025-10-01]
 image: /static/img/members/Cabrera.jpg
 altimage: /static/img/members/Cabrera.jpg
 position: MRes Student
