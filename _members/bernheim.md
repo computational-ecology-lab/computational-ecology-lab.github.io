@@ -1,5 +1,5 @@
 ---
-name: Landy Bernheim
+name: Landry Bernheim
 startdate: [2026-01-01]
 enddate: []
 image: /static/img/members/Bernheim.jpg
