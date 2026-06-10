@@ -1,12 +1,12 @@
 ---
 name: Marco Fele
 startdate: [2023-01-01]
-enddate: []
+enddate: [2026-05-13]
 image: /static/img/members/Fele.jpg
 altimage: /static/img/members/Fele.jpg
 position: PhD Student
 timeline_positions: 
-#subsequent:  update once you become an alumnus
+subsequent: Postdoctoral Researcher at the Max Planck Institute of Animal Behaviour, Germany
 pronouns: 
 email: 2252927 (at) swansea.ac.uk
 scholar:
