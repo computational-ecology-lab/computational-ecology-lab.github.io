@@ -15,6 +15,6 @@ For this collection I will have the pleasure to be working with an excellent gro
 
 It is very exciting to be part of this team as we hope to create a very nice collection of papers in one of our favourite research topics: Ecological Networks!
 
-*If you working on something exciting right now, we are very much looking forward to your submission!*
+**If you are working on something exciting right now, we are very much looking forward to your submission!**
 
 And please reach out if you have any questions.
