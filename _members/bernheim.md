@@ -1,7 +1,7 @@
 ---
 name: Landry Bernheim
 startdate: [2026-01-01]
-enddate: []
+enddate: [2026-06-01]
 image: /static/img/members/Bernheim.jpg
 altimage: /static/img/members/Bernheim.jpg
 position: MRes Student
